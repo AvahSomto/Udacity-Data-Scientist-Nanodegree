@@ -19,6 +19,6 @@ How to differentiate the reviews based on price?
 
 ## Results of the analysis
 
-Results and discussion were published on Medium: [Deep Dive Into Seattle and Boston Airbnb Data](https://medium.com/@sajjadmanal/deep-dive-into-seattle-and-boston-airbnb-data-d8e6fea5eab0?sk=0834ffb85786e74bd95e5e45ffe4bf23)
+Results and discussion were published on Medium: [In-depth analysis of Seattle and Boston Airbnb Data](https://medium.com/@avahsomto042/in-depth-analysis-of-seattle-and-boston-airbnb-data-200f7ea28c8e))
    
 In this project, I used two datasets - Seattle and Boston, I compared the two datasets and developed a machine learning model to forecast the rental price for both cities. Features that didn't correlate with the target label [price] were dropped. In order to ensure that the model could be able to generalize well with unseen data, a third dataset was used. The New York dataset was used to ensure that the model generalize well with unseen data.
