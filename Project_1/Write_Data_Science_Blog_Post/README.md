@@ -1,24 +1,33 @@
-# In-depth analysis of Seattle and Boston Airbnb Data
 
-## Brief Overview
+### Table of Contents
 
-The Seattle and Boston Airbnb datasets were mined based on the CRISP-DM framework.
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-The business problems I tried to uncover were:
-What features strongly affect Airbnb rental price?
-What features distinguished Airbnb homes in Seattle from those in Boston?
-How to differentiate the reviews based on price?
+## Installation <a name="installation"></a>
 
-## File Description
+No necessary libraries to run the code here beyond the Anaconda distribution of Python and DataSpell Software.  The code should run with no issues using Python versions 3.*.
 
-- The IDE used was DataSpell.
-- Two datasets:
-   Detailed Listings data for Boston and Seattle.
-   Dataset Link: insideairbnb.com
-- A Third dataset was used to ensure generalization of the model. The New York dataset was sourced from https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data.
+## Project Motivation<a name="motivation"></a>
 
-## Results of the analysis
+For this project, I was interestested in using Airbnb data from 2023 to better understand:
 
-Results and discussion were published on Medium: [In-depth analysis of Seattle and Boston Airbnb Data](https://medium.com/@avahsomto042/in-depth-analysis-of-seattle-and-boston-airbnb-data-200f7ea28c8e))
-   
-In this project, I used two datasets - Seattle and Boston, I compared the two datasets and developed a machine learning model to forecast the rental price for both cities. Features that didn't correlate with the target label [price] were dropped. In order to ensure that the model could be able to generalize well with unseen data, a third dataset was used. The New York dataset was used to ensure that the model generalize well with unseen data.
+1. What features can strongly affect Airbnb rental price?
+2. What features distinguishes Airbnb homes in Seattle from those in Boston?
+3. How to differentiate the reviews based on price?
+
+## File Descriptions <a name="files"></a>
+
+There is only one notebook available here to showcase work related to the above questions.  The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used for code clarification.  
+
+## Results<a name="results"></a>
+
+The main findings of the code can be found at the post available [here](https://medium.com/@avahsomto042/in-depth-analysis-of-seattle-and-boston-airbnb-data-200f7ea28c8e).
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+Thanks to Insideairbnb and Kaggle for the data.  You can find the Licensing for the data and other descriptive information at the Insideairbnb and Kaggle link available [here](http://insideairbnb.com/get-the-data/) and [here](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data). 
+
