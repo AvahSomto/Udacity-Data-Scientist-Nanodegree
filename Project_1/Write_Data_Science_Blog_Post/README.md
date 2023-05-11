@@ -9,7 +9,7 @@
 
 ## Installation <a name="installation"></a>
 
-No necessary libraries to run the code here beyond the Anaconda distribution of Python and DataSpell Software.  The code should run with no issues using Python versions 3.*.
+No necessary libraries to run the code here beyond the Anaconda distribution of Python and DataSpell IDE.  The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
