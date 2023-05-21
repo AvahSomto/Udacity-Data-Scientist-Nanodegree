@@ -1,6 +1,3 @@
-E.md
-@@ -1,33 +0,0 @@
-
 ### Table of Contents
 
 1. [Installation](#installation)
