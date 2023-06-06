@@ -18,7 +18,7 @@ For this project, I was interestested in looking at the interactions that users 
 2. How to use ranke-based recommendation to find the most read articles by users?
 3. How to apply User-based collaborative filtering to filter out users with similar articles of interests?
 4. How to apply content based filtering to perform a ranking of the highest ranked articles?
-5. How to build and use matrix factorization to make article recommendations to the users on the IBM Watson Studio platform
+5. How to build and use matrix factorization to make article recommendations to the users on the IBM Watson Studio platform?
 
 ## File Descriptions <a name="files"></a>
 
