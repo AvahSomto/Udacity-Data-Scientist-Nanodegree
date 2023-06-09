@@ -34,4 +34,4 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Thanks to Starbucks for the data. Thanks to Udacity for the workspace provided.
+Thanks to Starbucks for the datasets. Thanks to Udacity for the workspace provided.
