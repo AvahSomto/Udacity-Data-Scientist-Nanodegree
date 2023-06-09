@@ -30,7 +30,7 @@ Markdown cells were used for code clarification.
 
 ## Results<a name="results"></a>
 
-I was able to analyze the users interactions with the articles on the IBM Watson Studio platform
+The main findings of the code can be found at the post available [here](https://medium.com/@avahsomto042/in-depth-analysis-of-seattle-and-boston-airbnb-data-200f7ea28c8e).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
