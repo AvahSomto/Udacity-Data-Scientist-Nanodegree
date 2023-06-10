@@ -30,8 +30,9 @@ Markdown cells were used for code clarification.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@avahsomto042/in-depth-analysis-of-seattle-and-boston-airbnb-data-200f7ea28c8e).
+The main findings of the code can be found at the post available [here](https://medium.com/@avahsomto042/-eb9dd1e2ab6a).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Thanks to Starbucks for the datasets. Thanks to Udacity for the workspace provided.
+Thanks to all those whose work aided me to complete this capstone project.
