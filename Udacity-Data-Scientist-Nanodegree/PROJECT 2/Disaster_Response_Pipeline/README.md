@@ -64,6 +64,7 @@ It has a custom transformer python file. The basic work done here is load data f
 performing train-test split, building a model, training and tuning the model and exporting the model as a pickle file.
 
 Here is a peak at the Disaster Response Flask Web App
+
 ![app3](https://user-images.githubusercontent.com/54407746/98725077-9826b800-238c-11eb-828f-864dce8cbd9b.JPG)
 ![app1](https://user-images.githubusercontent.com/54407746/98724735-159df880-238c-11eb-8338-bc4b4e0b1c39.JPG)
 [app2](https://user-images.githubusercontent.com/54407746/98724932-5bf35780-238c-11eb-8a93-ebb09ab2d510.JPG)
