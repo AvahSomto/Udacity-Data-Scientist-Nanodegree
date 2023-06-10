@@ -8,8 +8,8 @@
 
 ## Installation <a name="installation"></a>
 
-The libaries used for this project is python 3.7 and above, pandas, numpy, math, json, seaborn, datetime, sklearn, xgboost, lightgbm, 
-matplotlib, warnings and the platform was Jupyter Notebook. 
+The libaries used for this project is python 3.7 and above, pandas, numpy, math, json, seaborn, datetime, sklearn, 
+matplotlib, warnings, etc and the platform was Jupyter Notebook. 
 The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
