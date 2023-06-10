@@ -69,6 +69,7 @@ Here is a peak at the Disaster Response Flask Web App
 ![app1](https://user-images.githubusercontent.com/54407746/98724735-159df880-238c-11eb-8338-bc4b4e0b1c39.JPG)
 [app2](https://user-images.githubusercontent.com/54407746/98724932-5bf35780-238c-11eb-8a93-ebb09ab2d510.JPG)
 
+
 How to interact with the Flask Web App
 First run the following commands in the project's root directory to set up the database and model
 To run ETL pipeline that cleans data and stores in database
