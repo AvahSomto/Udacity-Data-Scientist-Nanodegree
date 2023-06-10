@@ -84,4 +84,6 @@ The project includes a web app where an emergency worker can input a new message
 3. Go to http://0.0.0.0:3001/
 
 ### Licensing, Authors, Acknowledgements, etc.
-Thanks to Figure Eight for the datasets provoided and Udacity for the workspace provided to build the web app. 
+Thanks to Figure Eight for the datasets provoided and Udacity for the workspace provided to build the web app.
+Thanks to Udacity for the starter code and Stephanie Irvine.
+Thanks to all those whose work aided me in this project.
