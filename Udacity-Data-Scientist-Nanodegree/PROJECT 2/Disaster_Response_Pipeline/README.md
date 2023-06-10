@@ -82,6 +82,10 @@ Secondly run the following command in the app's directory to run your web app.
 
 Then go to http://0.0.0.0:3001/ or http://0.0.0.0:3000/  depending on your chosen socket to view the Flask Web Appp.
 
+### Results.
+The Search and rescue NGOs had a greater prcision and recall. Finally the Infrastructure NGOs had the second greater 
+precision and recall.
+Hence the NGOs that needs support are the Search and rescue NGOs and the Infrastructure NGOs. Infrastructure NGOs are NGOs that will provide shelter for the rescued victims.
 
 ### Licensing, Authors, Acknowledgements, etc.
 Thanks to Figure Eight for the datasets provoided and Udacity for the workspace provided to build the web app.
