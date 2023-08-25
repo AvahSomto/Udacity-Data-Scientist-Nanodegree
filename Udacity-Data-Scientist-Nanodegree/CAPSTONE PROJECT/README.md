@@ -38,4 +38,4 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Thanks to Kaggle and Udacity for the data and the starter code.
+Thanks to Kaggle and Udacity for the dataset and the starter code.
