@@ -12,7 +12,7 @@ The libaries used for this project is python 3.7 and above, numpy, pandas, matpl
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I created an algorithm to to predict the churn rate for Sparkify.
+For this project, I created an algorithm to predict the churn rate for Sparkify so as to answer these questions
 
 1. Which gender has the highest churn?
 2. Which level has the highest churn i.e. the free or the paid?
