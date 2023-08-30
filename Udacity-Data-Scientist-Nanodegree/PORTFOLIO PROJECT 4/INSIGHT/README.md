@@ -8,23 +8,20 @@
 
 ## Installation <a name="installation"></a>
 
-The libaries used for this project is python 3.7 and above, sklearn, keras, numpy, glob, random, sys, os, cv2, matplotlib, IPython, tqdm, the platform was Udacity Workspace. The code should run with no issues using Python versions 3.*.
+The libaries used for this project is python 3.7 and above, numpy, pandas, matplotlib, seaborn, pyspark, the platform was Udacity Workspace. The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I created an algorithm to identify an estimate of a canine's breed when given an image of a dog, If supplied an image of a human, the algorithm will identify the resembling dog breed.
+For this project, I created an algorithm to to predict the churn rate for Sparkify.
 
-1. What percentage of the first 100 images in human_files have a detected human face?
-2. What percentage of the first 100 images in dog_files have a detected human face?
-3. Should we communicate to the user that we accept human images only when they provide a clear view of a face (otherwise, we risk having 
-   unneccessarily frustrated users!). Is this a reasonable expectation to pose on the user? If not, can you think of a way to detect 
-   humans in images that does not necessitate an image with a clearly presented face?
-4. What percentage of the images in human_files_short have a detected dog?
-5. What percentage of the images in dog_files_short have a detected dog?
-6. Outline the steps you took to get to your final CNN architecture and your reasoning at each step. If you chose to use the hinted 
-   architecture above, describe why you think that CNN architecture should work well for the image classification task.
-7. Outline the steps you took to get to your final CNN architecture and your reasoning at each step. Describe why you think the architecture is suitable for the current problem.
-8. Is the output better than you expected :) ? Or worse :( ? Provide at least three possible points of improvement for your algorithm.
+1. Which gender has the highest churn?
+2. Which level has the highest churn i.e. the free or the paid?
+3. What artist category has the highest churn?
+4. What songs category has the highest churn?
+5. What songs total length has the highest churn?
+6. How many of our music streaming service visitors churned?
+7. How many of our music streaming service upgraded customers churned
+8. How many of our music streaming service downgraded customers churned
    
 
 ## File Descriptions <a name="files"></a>
@@ -33,9 +30,9 @@ There is only one notebook available here to showcase work related to the above 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@avahsomto042/unleashing-the-power-of-cnn-building-an-algorithm-for-a-dog-identification-app-ffcc3c82310d)
+The main findings of the code can be found at the post available [here](https://medium.com/@avahsomto042/unveiling-the-crystal-ball-predicting-churn-rate-for-sparkify-the-ultimate-music-streaming-cfe7434967b)
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Thanks to Insight and Udacity for the dataset and the starter code.
+Thanks to Insight and Udacity for the dataset, the starter code and the workspace
